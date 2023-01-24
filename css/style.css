@@ -336,6 +336,9 @@
 	 background-color: #151728;
 	 border-radius: 4px;
 }
+.loading{
+	z-index: 2;
+}
  .intro {
 	 padding: 20px;
    margin-bottom: 10px;

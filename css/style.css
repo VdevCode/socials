@@ -539,6 +539,14 @@
 	 display: flex;
 	 padding: 10px 20px;
 }
+.status-actions i{
+	color: white;
+}
+.bx-fullscreen{
+	color: white;
+	font-size: 18px;
+
+}
  .status-action {
 	 text-decoration: none;
 	 color: #ccc8db;

@@ -83,9 +83,9 @@ document.querySelectorAll('.video').forEach(function (v) {
 })
 
 const imagePaths = [
-    './image/image1.jpeg',
-    './image/image2.jpeg',
-    './image/image.jpeg',
+    './image/image1.jpg',
+    './image/image2.jpg',
+    './image/image3.jpg',
 ];
 
 class Utilities {

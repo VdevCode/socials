@@ -405,7 +405,19 @@ body:before {
   background-size: 139%;
   filter: saturate(1.4);
 }
-
+.button-hidden-image{
+  outline: none;
+  background: black;
+  color: white;
+  font-size: 1rem;
+  border: none;
+  padding: 5px;
+}
+.button-hidden-image:hover{
+  background: white;
+  color: black;
+  font-size: 1rem;
+}
 .main-blog+.main-blog .author-img {
   border-color: rgba(255, 255, 255, 0.75);
   margin-top: 14px;
@@ -654,7 +666,7 @@ video {
     margin-top: 30px;
   }
   .loading,.counter{
-    display: block;
+    display:none;
   }
 
   .stream-area .video-js.vjs-fluid {

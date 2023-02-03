@@ -1574,7 +1574,6 @@ a:hover {
 .mhn-ui-page.page-author img {
     padding: 8px;
     margin-top: 15px;
-    border-radius: 50%;
     background: rgba(255, 255, 255, .7)
 }
 .mhn-ui-credit {
@@ -1673,4 +1672,8 @@ a:hover {
 }
 .mhn-ui-credit-list .mhn-ui-credit:nth-child(5) {
     animation: fadeInUp .8s
+}
+.flipInX img{
+  width: 70px;
+  height: 70px;
 }
